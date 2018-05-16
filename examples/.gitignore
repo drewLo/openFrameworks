@@ -49,8 +49,8 @@
 /*/*/config.make
 /*/*/addons.make
 # Leave Android files in until project generation works
-!/android/*/Makefile
-!/android/*/config.make
+#!/android/*/Makefile
+#!/android/*/config.make
 
 # Android
 android/*/test link
