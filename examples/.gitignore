@@ -47,6 +47,7 @@
 # Linux
 /*/*/Makefile
 /*/*/config.make
+/*/*/addons.make
 # Leave Android files in until project generation works
 !/android/*/Makefile
 !/android/*/config.make
